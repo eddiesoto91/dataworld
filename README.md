@@ -1,2 +1,1 @@
-# dataworld
-Learning Data Science
+# Learning Data Science
